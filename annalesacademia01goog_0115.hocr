@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademia01goog_0115.png"; bbox 0 0 4517 5867; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 909 1313 980 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 909 1313 980 1392">
+     <span class='ocr_line' id='line_1_1' title="bbox 909 1313 980 1392; baseline -0.042 1"><span class='ocrx_word' id='word_1_1' title='bbox 909 1313 980 1392; x_wconf 89' lang='lat' dir='ltr'><strong>IX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 1586 1622 1810">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 1586 1622 1810">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 1586 1622 1810; baseline -0.003 -46"><span class='ocrx_word' id='word_1_2' title='bbox 265 1633 737 1768; x_wconf 80' lang='lat' dir='ltr'><strong>BERNARDI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 774 1633 898 1761; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 924 1586 1210 1810; x_wconf 76' lang='lat' dir='ltr'><strong>&#39;sAlNT</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1244 1631 1622 1766; x_wconf 74' lang='grc' dir='ltr'>ΜουιΙΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 1937 1268 2418">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 1937 1268 2418">
+     <span class='ocr_line' id='line_1_3' title="bbox 618 1937 1268 2154; baseline 0.003 -5"><span class='ocrx_word' id='word_1_6' title='bbox 618 1937 1268 2154; x_wconf 75' lang='lat' dir='ltr'><strong>RESPONsm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 909 2338 981 2418; baseline 0.014 -1"><span class='ocrx_word' id='word_1_7' title='bbox 909 2338 981 2418; x_wconf 55' lang='lat' dir='ltr'><strong>A„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 291 2595 1416 2729">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 291 2595 1416 2729">
+     <span class='ocr_line' id='line_1_5' title="bbox 291 2595 1416 2729; baseline 0 -23"><span class='ocrx_word' id='word_1_8' title='bbox 291 2715 297 2722; x_wconf 63' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 451 2595 850 2729; x_wconf 86' lang='lat' dir='ltr'><strong>QUAESTION</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 851 2599 955 2706; x_wconf 84' lang='lat' dir='ltr'><strong>EM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 987 2595 1416 2710; x_wconf 47' lang='lat' dir='ltr'><strong>BOTANICAMJ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2264 5860">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2264 5860">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2264 5860; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2264 5860; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
